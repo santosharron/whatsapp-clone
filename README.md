@@ -4,6 +4,8 @@ A WhatsApp like application for Android with various WhatsApp features
 such as sending texts, media and voice recording messages. Some features
 will come at a later stage.
 
+[![Screenshot 1][screenshot-1]]
+
 ## About the application
 
 The application heavily relies on
@@ -176,7 +178,7 @@ Contributions, issues and feature requests are welcome.<br />
 ## License
 
 Copyright © 2021 [Santosh Arron](https://github.com/santosharron). <br />
-This project is [Apache](https://github.com/santosharron/whatsapp-clone/blob/main/LICENSE) licensed.
+This project is [Apache License 2.0](https://github.com/santosharron/whatsapp-clone/blob/main/LICENSE) licensed.
 
 
 <!-- SCREENSHOTS AND GIFS  -->
