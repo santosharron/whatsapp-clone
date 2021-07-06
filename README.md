@@ -176,7 +176,7 @@ Contributions, issues and feature requests are welcome.<br />
 ## License
 
 Copyright © 2021 [Santosh Arron](https://github.com/santosharron). <br />
-This project is [Apache](https://github.com/lmakage/espacio-dios-website/blob/master/LICENSE) licensed.
+This project is [Apache](https://github.com/santosharron/whatsapp-clone/blob/main/LICENSE) licensed.
 
 
 <!-- SCREENSHOTS AND GIFS  -->
