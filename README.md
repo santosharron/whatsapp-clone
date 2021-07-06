@@ -4,7 +4,7 @@ A WhatsApp like application for Android with various WhatsApp features
 such as sending texts, media and voice recording messages. Some features
 will come at a later stage.
 
-[![Screenshot 1][screenshot-1]]
+[![homeui][home_ui]]
 
 ## About the application
 
@@ -191,6 +191,6 @@ This project is [Apache License 2.0](https://github.com/santosharron/whatsapp-cl
 [Screenshot-1]: screenshots/screenshot_1.jpg
 [Screenshot-2]: screenshots/screenshot_2.jpg
 [Screenshot-3]: screenshots/screenshot_3.jpg
-
+[homeui]: screenshots/home_ui.png
 
 
