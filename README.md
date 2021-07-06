@@ -169,21 +169,14 @@ When a user sends a message:
 [![Screenshot 1][screenshot-1]] [![Screenshot 2][screenshot-2]]
 [![Screenshot 3][screenshot-3]]
 
-
-
-## Acknowledgements
-* [Varun John's Audio-Recording-Animation](https://github.com/varunjohn/Audio-Recording-Animation)
-* [Dushyanth's Barcode Scanner](https://github.com/dm77/barcodescanner)
-* [Henning Dodenhof's Circle Image View](https://github.com/hdodenhof/CircleImageView)
-
 ## Contributing
 
 Contributions, issues and feature requests are welcome.<br />
 
 ## License
 
-Copyright © 2019 [Lehlogonolo Makagae](https://github.com/lmakgae). <br />
-This project is [MIT](https://github.com/lmakage/espacio-dios-website/blob/master/LICENSE) licensed.
+Copyright © 2021 [Santosh Arron](https://github.com/santosharron). <br />
+This project is [Apache](https://github.com/santosharron/whatsapp-clone/blob/main/LICENSE) licensed.
 
 
 <!-- SCREENSHOTS AND GIFS  -->
