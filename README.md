@@ -4,7 +4,7 @@ A WhatsApp like application for Android with various WhatsApp features
 such as sending texts, media and voice recording messages. Some features
 will come at a later stage.
 
-[![home_ui][home_ui]]
+![home_ui][home_ui]
 
 ## About the application
 
