@@ -169,7 +169,6 @@ When a user sends a message:
 ##### More Screenshots
 
 [![Screenshot 1][screenshot-1]] [![Screenshot 2][screenshot-2]]
-[![Screenshot 3][screenshot-3]]
 
 ## Contributing
 
@@ -190,7 +189,6 @@ This project is [Apache License 2.0](https://github.com/santosharron/whatsapp-cl
 [Sending-Messages-2]: screenshots/sending_messages_2.jpg
 [Screenshot-1]: screenshots/screenshot_1.jpg
 [Screenshot-2]: screenshots/screenshot_2.jpg
-[Screenshot-3]: screenshots/screenshot_3.jpg
 [home_ui]: screenshots/home_ui.png
 
 
